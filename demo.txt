@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+網頁範例
+</title>
+</head>
+<body bgcolor="yellow">
+您好！
+</body>
+</html>
